@@ -16,7 +16,8 @@ There are many Git clients to use with your Git repository. GitHub provides a GU
 4. Commit files in staging area to repository... relevant commands **git commit** and **git log**
 5. View differences
 6. Resolving conflicts
-7. Use branches
+7. Ignoring files (E.g.: never commit compiled code to repository)... See [ignoring files on GitHub Help](https://help.github.com/articles/ignoring-files/)
+8. Use branches
 
 ## Git Best Practice
 1. Use small commits. If you are fixing two different bugs, use two different commits. Small commits are easier for everyone in the development team to understand.
